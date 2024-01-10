@@ -1,1 +1,1 @@
-# purezzatechnologies-doledge-job-portal-vite
+# doledge-job-portal
